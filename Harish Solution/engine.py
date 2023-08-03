@@ -2,8 +2,7 @@ from dataclasses import dataclass
 
 @ dataclass
 class Engine:
-    def needs_service():
-        pass
+
 
 
 @ dataclass
